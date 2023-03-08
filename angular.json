@@ -8,6 +8,9 @@
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+      "i18n": {
+        "sourceLocale": "pt-BR"
+      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
